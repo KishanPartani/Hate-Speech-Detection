@@ -1,0 +1,11 @@
+flask
+pandas
+numpy
+cv2
+matplotlib
+tensorflow
+sklearn
+nltk
+pytesseract
+PIL
+
